@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Cuiox Book</title>
+    <link>https://cuiox.github.io/docs/fun/machine_learning/</link>
+    <description>Recent content in Machine Learning on Cuiox Book</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://cuiox.github.io/docs/fun/machine_learning/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
